@@ -18,6 +18,9 @@
   <a href="https://huggingface.co/papers/2608.02711" target="_blank">
     <img src="https://img.shields.io/badge/-huggingface-%23F59E0B?style=flat&logo=huggingface&logoColor=white&labelColor=%23F59E0B" alt="Hugging Face">
   </a>
+  <a href="https://github.com/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0" target="_blank">
+    <img src="https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0?style=flat&logo=github&label=Stars&color=181717" alt="GitHub Stars">
+  </a>
 </p>
 
 https://github.com/user-attachments/assets/274849d7-3bcc-4307-bc5e-a719f208cf85
